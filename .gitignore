@@ -1,0 +1,11 @@
+*.pdf
+.idea/Projekt.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+dane4.txt
+dane5.txt
+dane6.txt
+dane7.txt
+dane8.txt
+projekt.hs
